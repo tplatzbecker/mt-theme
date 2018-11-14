@@ -15554,7 +15554,13 @@ body.menu-is-visible {
   }
   #mainNavbarCollapsable ul.mainmenu > li > ul > li > a {
     width: 100%;
+      color:aquamarine;
   }
+    #mainNavbarCollapsable ul.mainmenu > li > ul > li > a:hover {
+    width: 100%;
+      color:#ffffff;
+  }
+    
   .no-touch #mainNavbarCollapsable ul.mainmenu > li:hover,
   .touch #mainNavbarCollapsable ul.mainmenu > li.hover {
     background-color: #008ebd;
