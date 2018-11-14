@@ -1,1 +1,6 @@
 /* Enter your CSS here */
+
+/* Hintergrundfarbe setzen */
+body {
+    background-color: #ffffff;
+}
