@@ -15554,9 +15554,9 @@ body.menu-is-visible {
   }
   #mainNavbarCollapsable ul.mainmenu > li > ul > li > a {
     width: 100%;
-      color:aquamarine;
+      color:#008ebd;
   }
-    #mainNavbarCollapsable ul.mainmenu > li > ul > li > a:hover {
+  #mainNavbarCollapsable ul.mainmenu > li > ul > li > a:hover {
     width: 100%;
       color:#ffffff;
   }
