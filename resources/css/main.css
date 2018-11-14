@@ -695,7 +695,7 @@ code {
   padding: 0.2rem 0.4rem;
   font-size: 90%;
   color: #bd4147;
-  background-color: #fdfdfd;
+  background-color: #ffffff;
   border-radius: 0.1rem;
 }
 
@@ -5648,7 +5648,7 @@ button.close {
 }
 
 .bg-faded {
-  background-color: #fdfdfd;
+  background-color: #ffffff;
 }
 
 .bg-primary {
@@ -12290,7 +12290,7 @@ body .wrapper-main {
 }
 
 .page-not-found .default-not-found {
-  background-color: #fdfdfd;
+  background-color: #ffffff;
 }
 
 .page-not-found .not-found-text {
@@ -12417,12 +12417,12 @@ a:active {
 }
 
 body {
-  background-color: #fdfdfd;
+  background-color: #ffffff;
 }
 
 body > #vue-app,
 body > #vue-error {
-  background-color: #fdfdfd;
+  background-color: #ffffff;
 }
 
 body > #vue-app > .wrapper-top, body > #vue-app > .wrapper-left, body > #vue-app > .wrapper-right, body > #vue-app > .wrapper-bottom,
@@ -14309,7 +14309,7 @@ html.safari .popper-visible {
 .input-unit input:not([type="radio"]):disabled,
 .input-unit .input-unit-preview.disabled,
 .input-unit .input-unit-preview:disabled {
-  background-color: #fdfdfd;
+  background-color: #ffffff;
   border-color: #dcdbd8;
   cursor: not-allowed;
 }
@@ -14383,7 +14383,7 @@ html.safari .popper-visible {
   position: absolute;
   top: 0;
   left: 0;
-  background-color: #fdfdfd;
+  background-color: #ffffff;
   color: #dcdbd8;
   line-height: 1.2em;
   width: 1.2em;
@@ -14919,7 +14919,7 @@ html.safari .popper-visible {
 .navbar {
   padding: 0;
   z-index: 1050;
-  background-color: #fdfdfd;
+  background-color: #efefef;
   border-bottom: 1px solid #dcdbd8;
 }
 
@@ -15970,7 +15970,7 @@ body.menu-is-visible {
 
 .footer {
   display: block;
-  background-color: #fdfdfd;
+  background-color: #ffffff;
 }
 
 @media print {
@@ -17195,7 +17195,7 @@ body.menu-is-visible {
   -webkit-transform: rotate(360deg);
   border-style: solid;
   border-width: 0px 70px 70px 0;
-  border-color: transparent #fdfdfd transparent transparent;
+  border-color: transparent #ffffff transparent transparent;
   position: absolute;
   z-index: 99;
   top: 0;
@@ -18069,7 +18069,7 @@ body.menu-is-visible {
   top: 0;
   left: 0;
   position: absolute;
-  background: #fdfdfd;
+  background: #ffffff;
   border-radius: 1px;
   opacity: 0;
   transition: opacity .1s ease-out;
@@ -18138,7 +18138,7 @@ body.menu-is-visible {
 }
 
 .qty-box .qty-input:focus {
-  background: #fdfdfd;
+  background: #ffffff;
 }
 
 .qty-box .qty-btn-container {
@@ -18957,7 +18957,7 @@ body.menu-is-visible {
 }
 
 .list-controls #filterCollapse .page-content .card .form-check .form-check-label:hover, .list-controls #filterCollapse .page-content .cmp-address-list .items > div:first-child .form-check .form-check-label:hover, .cmp-address-list .list-controls #filterCollapse .page-content .items > div:first-child .form-check .form-check-label:hover {
-  background: #fdfdfd;
+  background: #ffffff;
   color: #4D4F4D;
   transition: all .1s ease;
   padding-left: .5rem;
@@ -19040,7 +19040,7 @@ body.menu-is-visible {
 
 .sidebar-categories ul li a:hover {
   color: #282d2f;
-  background: #fdfdfd;
+  background: #ffffff;
 }
 
 .sidebar-categories ul li ul {
