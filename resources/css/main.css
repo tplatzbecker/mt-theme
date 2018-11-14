@@ -14847,6 +14847,8 @@ html.safari .popper-visible {
 .wrapper-main .navbar {
   font-family: Custom-Font, Helvetica, Arial, sans-serif;
   border-bottom: 1px solid #efefef;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .wrapper-main .navbar a {
@@ -14947,7 +14949,8 @@ html.safari .popper-visible {
 }
 
 .navbar-brand img {
-  max-height: 3rem;
+  min-height: 3rem;
+  max-height: 6rem;
 }
 
 .navbar-nav .nav-item {
