@@ -14847,8 +14847,8 @@ html.safari .popper-visible {
 .wrapper-main .navbar {
   font-family: Custom-Font, Helvetica, Arial, sans-serif;
   border-bottom: 1px solid #efefef;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .wrapper-main .navbar a {
@@ -14949,8 +14949,8 @@ html.safari .popper-visible {
 }
 
 .navbar-brand img {
-  min-height: 3rem;
-  max-height: 6rem;
+  /*min-height: 3rem;*/
+  max-height: 8rem;
 }
 
 .navbar-nav .nav-item {
@@ -15446,7 +15446,8 @@ body.menu-is-visible {
 #mainNavbarCollapsable ul.mainmenu li a {
   color: inherit;
   display: inline-block;
-  padding: 1rem;
+  padding: 0.5rem;
+  line-height:1.2;
   -ms-flex: 1 0 80%;
       flex: 1 0 80%;
 }
@@ -15493,7 +15494,7 @@ body.menu-is-visible {
     position: relative;
     transform: translateX(0);
     width: 100%;
-    font-size: 1em;
+    font-size: 1.2em;
     transition: all .1s ease;
   }
   #mainNavbarCollapsable .breadcrumb {
