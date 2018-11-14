@@ -15446,8 +15446,8 @@ body.menu-is-visible {
 #mainNavbarCollapsable ul.mainmenu li a {
   color: inherit;
   display: inline-block;
-  padding: 0.5rem;
-  line-height:1.2;
+  padding: 0.7rem;
+  line-height: 1.2;
   -ms-flex: 1 0 80%;
       flex: 1 0 80%;
 }
@@ -15522,7 +15522,11 @@ body.menu-is-visible {
     visibility: hidden;
     opacity: 0;
     transition: all .1s ease;
-    background: #00688a;
+    /*background: #00688a;*/
+      background: #efefef;
+      border: 1px;
+      border-style: solid;
+      border-color: #ffffff;
     height: auto;
     top: 100%;
     text-align: center;
