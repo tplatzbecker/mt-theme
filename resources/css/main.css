@@ -17195,7 +17195,7 @@ body.menu-is-visible {
   -webkit-transform: rotate(360deg);
   border-style: solid;
   border-width: 0px 70px 70px 0;
-  border-color: transparent #ffffff transparent transparent;
+  border-color: transparent #f7f7f9 transparent transparent;
   position: absolute;
   z-index: 99;
   top: 0;
