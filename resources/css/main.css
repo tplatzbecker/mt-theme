@@ -7560,7 +7560,8 @@ a.text-danger:focus, a.text-danger:hover {
 }
 
 .fa-circle:before {
-    content: "•";
+    color: #008ebd;
+    content: "•" !important;
   /*content: "";*/
 }
 
@@ -20900,4 +20901,14 @@ body.menu-is-visible {
 
 .widget .widget-newsletter .widget-inner {
   padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 15px;
+}
+
+.widget .widget-link-list .h5 {
+  color: #008ebd;
+}
+
+.widget .widget-link-list nav {
+  padding-left: 35px;
 }
