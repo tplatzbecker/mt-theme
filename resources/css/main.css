@@ -20712,7 +20712,7 @@ body.menu-is-visible {
       flex: 1;
   padding-top: .2rem;
   margin: 0;
-  text-transform: uppercase;
+  text-transform: none;
   font-size: 1.75rem;
 }
 
@@ -20938,4 +20938,8 @@ body.menu-is-visible {
   font-weight: 600;
   font-size: 1.5rem;
   margin-top: 1.5rem;
+}
+
+.m-b-1 {
+    margin-bottom: 0rem !important;
 }
