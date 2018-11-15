@@ -20896,3 +20896,7 @@ body.menu-is-visible {
 .widget .widget-newsletter .h1 {
   color: #008ebd;
 }
+
+.widget .widget-newsletter .widget-inner {
+  padding-right: 15px;
+}
