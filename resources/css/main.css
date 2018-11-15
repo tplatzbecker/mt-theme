@@ -20723,7 +20723,7 @@ body.menu-is-visible {
 .widget-item-list.widget-primary .widget-caption {
   color: #fff;
   /*background-color: #008ebd;*/
-  background-image: linear-gradient(to bottom, #008ebd 10%, #dcf4ff 100%);    
+  background-image: linear-gradient(to bottom, #7e7e7e 10%, #efefef 130%);    
 }
 
 .widget-item-list.widget-secondary .widget-caption {
