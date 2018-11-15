@@ -7560,7 +7560,8 @@ a.text-danger:focus, a.text-danger:hover {
 }
 
 .fa-circle:before {
-  content: "";
+    content: "•";
+  /*content: "";*/
 }
 
 .fa-mail-reply:before,
