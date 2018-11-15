@@ -308,7 +308,8 @@ body {
   font-family: Custom-Font, Helvetica, Arial, sans-serif;
   font-size: 1rem;
   line-height: 1.5;
-  color: #4D4F4D;
+  /*color: #4D4F4D;*/
+  color: #7e7e7e;    
   background-color: white;
 }
 
@@ -20900,8 +20901,8 @@ body.menu-is-visible {
 }
 
 .widget .widget-newsletter .widget-inner {
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 50px;
+  padding-left: 30px;
   padding-top: 15px;
 }
 
@@ -20911,4 +20912,29 @@ body.menu-is-visible {
 
 .widget .widget-link-list nav {
   padding-left: 35px;
+}
+
+.widget .widget-text .widget-none .widget-inner p, a {
+  color: #4D4F4D;
+}
+
+.mt-h1-front {
+    text-align:center;
+}
+
+/* Titelzeile Eingangsseite */
+.mt-h1-front {
+  text-align: center;
+  color: #008ebd;
+  font-weight:700;
+  font-size:4rem;
+  text-shadow: 5px 5px 7px #aaa;
+}
+
+.mt-h2-front {
+  text-align: center;
+  color: #7e7e7e;
+  font-weight: 600;
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
 }
