@@ -20258,8 +20258,8 @@ body.menu-is-visible {
 .footer .widget-grid .widget-inner .widget-list {
   position: relative;
   height: 100%;
-  color: #4D4F4D;
-  background-color: #dadae3;
+  color: #ffffff;
+  background-color: #008ebd;
   margin-left: -15px;
   margin-right: -15px;
   padding-left: 15px;
@@ -20891,4 +20891,8 @@ body.menu-is-visible {
 
 .widget-link-list .widget-inner a {
   color: #4D4F4D;
+}
+
+.widget .widget-newsletter .h1 {
+  color: #008ebd;
 }
