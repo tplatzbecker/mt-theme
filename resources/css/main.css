@@ -20343,7 +20343,13 @@ body.menu-is-visible {
 }
 
 .widget-image-box.widget-image-box-inline-caption > .widget-inner .widget-caption {
-  padding: 1.5rem;
+    padding-top:0.6rem;
+    padding-bottom:0.6rem;
+    padding-left:1.5rem;
+    padding-right:1.6rem;
+    border: 1px solid white;
+    margin-left: 0.5rem;
+    margin-bottom: 0.4rem;
 }
 
 .widget-image-box.widget-image-box-block-caption > .widget-inner .widget-caption {
@@ -20360,7 +20366,8 @@ body.menu-is-visible {
 
 .widget-image-box.widget-primary .widget-caption {
   color: #fff;
-  background-color: rgba(0, 142, 189, 0.8);
+  /*background-color: rgba(0, 142, 189, 0.8);*/
+  background-color: rgba(126, 126, 126, 0.7);
 }
 
 .widget-image-box.widget-primary a[href].widget-inner:hover .widget-caption {
