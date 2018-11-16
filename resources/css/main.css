@@ -12298,7 +12298,7 @@ body .wrapper-main {
 
 .page-not-found .not-found-text {
   font-size: 115px;
-  text-shadow: 4px 3px 0 #F7F7F9, 9px 8px 0 rgba(218, 218, 227, 0.5);
+  text-shadow: 4px 3px 0 #efefef, 9px 8px 0 rgba(218, 218, 227, 0.5);
 }
 
 .rating {
@@ -14850,8 +14850,8 @@ html.safari .popper-visible {
 .wrapper-main .navbar {
   font-family: Custom-Font, Helvetica, Arial, sans-serif;
   border-bottom: 1px solid #efefef;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .wrapper-main .navbar a {
@@ -14953,7 +14953,7 @@ html.safari .popper-visible {
 
 .navbar-brand img {
   /*min-height: 3rem;*/
-  max-height: 8rem;
+  max-height: 6rem;
 }
 
 .navbar-nav .nav-item {
@@ -17212,7 +17212,7 @@ body.menu-is-visible {
   -webkit-transform: rotate(360deg);
   border-style: solid;
   border-width: 0px 70px 70px 0;
-  border-color: transparent #f7f7f9 transparent transparent;
+  border-color: transparent #efefef transparent transparent;
   position: absolute;
   z-index: 99;
   top: 0;
@@ -20713,17 +20713,19 @@ body.menu-is-visible {
   padding-top: .2rem;
   margin: 0;
   text-transform: none;
-  font-size: 1.75rem;
+  font-size: 1.5rem;
 }
 
 .widget-item-list .widget-caption a {
-  color: #fff;
+  color: #008ebd;
 }
 
 .widget-item-list.widget-primary .widget-caption {
-  color: #fff;
+  color: #008ebd;
   /*background-color: #008ebd;*/
-  background-image: linear-gradient(to bottom, #7e7e7e 10%, #efefef 130%);    
+  /*background-image: linear-gradient(to bottom, #7e7e7e 10%, #efefef 130%);*/
+  background-color: #efefef;
+  border-top: #008ebd solid 2px;
 }
 
 .widget-item-list.widget-secondary .widget-caption {
