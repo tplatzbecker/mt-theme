@@ -18795,7 +18795,7 @@ body.menu-is-visible {
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  /*background-attachment: fixed;*/
   background-position: center;
   height: 300px;
   max-width: none;
@@ -18840,21 +18840,21 @@ body.menu-is-visible {
   text-shadow: 0 0 0.1em rgba(0, 0, 0, 0.75);
   bottom: 0;
   width: 100%;
-  margin-bottom: .5rem;
+  margin-bottom: 1.5rem;
   letter-spacing: 1px;
 }
 
 @media (min-width: 544px) {
   .parallax-img-container[style^='background-image'] .parallax-text-container h1 {
     font-size: 400%;
-    margin: 0 0 1rem;
+    margin: 0 0 2rem;
   }
 }
 
 @media (min-width: 768px) {
   .parallax-img-container[style^='background-image'] .parallax-text-container h1 {
     font-size: 500%;
-    margin-bottom: 1.5rem;
+    margin-bottom: 2.5rem;
   }
 }
 
