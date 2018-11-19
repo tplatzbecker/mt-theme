@@ -5877,7 +5877,11 @@ a.bg-danger:focus, a.bg-danger:hover {
 }
 
 .m-b-1 {
-  margin-bottom: 1rem !important;
+  margin-bottom: 0rem !important;
+}
+
+.m-b-1-category-desc {
+  margin-bottom: 2rem !important;
 }
 
 .m-l-1 {
@@ -20949,6 +20953,8 @@ body.menu-is-visible {
   margin-top: 1.5rem;
 }
 
-.m-b-1 {
-    margin-bottom: 0rem !important;
+.page-content-desc {
+  padding-left:10px;
+  padding-right:10px;
 }
+
