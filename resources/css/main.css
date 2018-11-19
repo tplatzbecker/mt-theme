@@ -20958,3 +20958,11 @@ body.menu-is-visible {
   padding-right:10px;
 }
 
+.extra-mt {
+  font-weight:700;
+  text-transform: uppercase;
+  font-size:1.75rem;
+  padding-right: 2.25rem; 
+  letter-spacing:0.2rem;
+}
+
