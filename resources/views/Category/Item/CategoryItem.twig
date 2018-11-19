@@ -110,10 +110,9 @@
             </div>
         {% endif %}
         
-        
-            {% if ceresConfig.item.showCategoryDescription %}
-                <div id="category-description-container" class="category-description m-b-1-category-desc page-content-desc container-max">{{ category.details[0].description | raw }}</div>
-            {% endif %}
+        {% if ceresConfig.item.showCategoryDescription %}
+            <div id="category-description-container" class="category-description m-b-1-category-desc page-content-desc container-max">{{ category.details[0].description | raw }}</div>
+        {% endif %}
     
     </div>
 
