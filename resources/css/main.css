@@ -18795,7 +18795,7 @@ body.menu-is-visible {
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
-  /*background-attachment: fixed;*/
+  background-attachment: scroll;
   background-position: center;
   height: 300px;
   max-width: none;
