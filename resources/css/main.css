@@ -20969,3 +20969,21 @@ body.menu-is-visible {
 .crossprice .text-muted {
   color: #d4021d !important;
 }
+
+.image-list {
+  list-style: none;
+  padding: 0;
+}
+
+.image-list li {
+  display: inline-block;
+  margin: 5px 5px 5px 0;
+  vertical-align: middle;
+}
+
+.widget .widget-inner .h5 {
+  color: #008ebd;
+}
+.widget .widget-inner h2 {
+    font-weight: 700;
+}
