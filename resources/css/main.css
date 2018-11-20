@@ -17380,7 +17380,7 @@ body.menu-is-visible {
 .cmp-product-thumb .crossprice {
   font-size: .81em;
   font-weight: 700;
-  color: #b2b1a7;
+  color: #d4021d;
 }
 
 .cmp-product-thumb .price {
@@ -20966,3 +20966,6 @@ body.menu-is-visible {
   letter-spacing:0.2rem;
 }
 
+.crossprice .text-muted {
+  color: #d4021d !important;
+}
