@@ -20318,7 +20318,8 @@ body.menu-is-visible {
 
 .widget-image-box > .widget-inner .widget-caption h2, .widget-image-box > .widget-inner .widget-caption .h2 {
   margin: 0;
-  font-size: 1.75rem;
+  font-size: 1.5rem;
+  font-weight: 500 !important;
 }
 
 .widget-image-box.widget-image-box-fullwidth > .widget-inner .widget-caption {
@@ -20347,10 +20348,10 @@ body.menu-is-visible {
 }
 
 .widget-image-box.widget-image-box-inline-caption > .widget-inner .widget-caption {
-    padding-top:0.6rem;
-    padding-bottom:0.6rem;
-    padding-left:1.5rem;
-    padding-right:1.6rem;
+    padding-top:0.4rem;
+    padding-bottom:0.4rem;
+    padding-left:1.2rem;
+    padding-right:1.3rem;
     border: 1px solid white;
     margin-left: 0.5rem;
     margin-bottom: 0.4rem;
