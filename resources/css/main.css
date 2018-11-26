@@ -9860,13 +9860,13 @@ a.text-danger:focus, a.text-danger:hover {
   background-image: url(../images/flags/1x1/cz.svg);
 }
 
-.flag-icon-de {
+/*.flag-icon-de {
   background-image: url(../images/flags/4x3/de.svg);
 }
 
 .flag-icon-de.flag-icon-squared {
   background-image: url(../images/flags/1x1/de.svg);
-}
+}*/
 
 .flag-icon-dj {
   background-image: url(../images/flags/4x3/dj.svg);
