@@ -20971,6 +20971,7 @@ body.menu-is-visible {
   color: #d4021d !important;
 }
 
+/* Bilderliste im Footer */
 .image-list {
   list-style: none;
   padding: 0;
@@ -20978,13 +20979,36 @@ body.menu-is-visible {
 
 .image-list li {
   display: inline-block;
-  margin: 5px 5px 5px 0;
+  margin: 0px 5px 5px 0;
   vertical-align: middle;
+  background: #cbcbcb;
+  float: left;
+  line-height: 40px;
+  height: 40px;
+  width: 100px;
 }
+
+.image-list img {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.image-list-payment {
+    left: 50%;
+    right: 50%;
+    text-align: center;
+}
+
 
 .widget .widget-inner .h5 {
   color: #008ebd;
 }
+
 .widget .widget-inner h2 {
     font-weight: 700;
 }
+
+.widget .widget-text nav {
+    padding-left: 35px;
+} 
