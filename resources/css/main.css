@@ -20210,7 +20210,7 @@ body.menu-is-visible {
     height: 100%;
   }
   .widget-grid-stacked .widget-inner-stacked .widget-proportional > .widget-inner .widget-caption h2, .widget-grid-stacked .widget-inner-stacked .widget-proportional > .widget-inner .widget-caption .h2 {
-    font-size: 1.75rem;
+    font-size: 1.5rem;
   }
 }
 
