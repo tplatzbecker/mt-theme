@@ -20372,7 +20372,7 @@ body.menu-is-visible {
 .widget-image-box.widget-primary .widget-caption {
   color: #fff;
   /*background-color: rgba(0, 142, 189, 0.8);*/
-  background-color: rgba(126, 126, 126, 0.7);
+  background-color: rgba(126, 126, 126, 0.6);
 }
 
 .widget-image-box.widget-primary a[href].widget-inner:hover .widget-caption {
@@ -20926,7 +20926,7 @@ body.menu-is-visible {
 }
 
 .widget .widget-link-list nav {
-  padding-left: 35px;
+  padding-left: 30px;
 }
 
 .widget .widget-text .widget-none .widget-inner p, a {
@@ -20981,11 +20981,10 @@ body.menu-is-visible {
   display: inline-block;
   margin: 0px 5px 5px 0;
   vertical-align: middle;
-  background: #cbcbcb;
   float: left;
   line-height: 40px;
   height: 40px;
-  width: 100px;
+  width: 90px;
 }
 
 .image-list img {
@@ -21010,5 +21009,5 @@ body.menu-is-visible {
 }
 
 .widget .widget-text nav {
-    padding-left: 35px;
+    padding-left: 30px;
 } 
